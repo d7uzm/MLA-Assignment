@@ -17,5 +17,5 @@ While algorithms trained on such datasets might seem to work well in most scenar
 
 #### Working Video
 
-Visit working video page.
+Visit [working video page](./working%20video.mp4).
 
