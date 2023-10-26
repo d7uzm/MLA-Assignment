@@ -12,6 +12,7 @@ There are currently some things that I want to work on:
 
 After submitting the documentation, I will continue working on the project.
 
-Below are the related images.
+Below are the related images.  
+
 <img src="./0.png" width="600px"/>
 <img src="./1.png" width="600px"/>
