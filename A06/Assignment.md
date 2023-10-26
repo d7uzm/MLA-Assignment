@@ -1,3 +1,6 @@
+# Assignment 6
+
+### Working with Models
 It is unfortunate that I didn't bring my Arduino kit to school this semester. There would have been plenty of opportunities to explore different physical devices interacting with the ml5 library. I recalled that this week's assignment could be completed without using Arduino, so I opted for it.
 
 This time, I wanted to create a finger gun. Since I still get confused about which index to use for each point, I created [this sketch](https://editor.p5js.org/ob2sd/sketches/5p8xYhpXw) for quick reference. Based on the identified points, I wanted to measure where the finger is pointing. So, I drew lines between the points of fingertips, knuckles, etc. and estimated where the finger is pointing. However, the ratio of the resulting image was not that great, so I defined a getNewPoint() function to obtain ratio-modifiable points. Then, I drew a gun (per hand).
@@ -16,3 +19,5 @@ Below are the related images.
 
 <img src="./0.png" width="600px"/>
 <img src="./1.png" width="600px"/>
+
+The code is [here](https://editor.p5js.org/ob2sd/sketches/zRwrnbjKK).
