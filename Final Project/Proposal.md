@@ -20,8 +20,8 @@ My inspiration came from a previous assignment. The project turned out better th
 
 ### Visual Reference
 
-<img src="./0.png" width="600px"/>
-<img src="./1.png" width="600px"/>
+<img src="./0.png" width="300px"/>
+<img src="./1.png" width="300px"/>
 
 ### Audience
 
